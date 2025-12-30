@@ -1,2 +1,2 @@
-# 3nentasizan-hikizan-hissan
+# 3nentasizan-hikizan
 ３年生向け　たし算ひき算筆算アプリ
